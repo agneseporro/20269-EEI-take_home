@@ -1,4 +1,3 @@
-# 20269 EEI Take Home
 # 20269 Economics of European Integration — Take Home 2025/26
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
